@@ -4,7 +4,7 @@ E-commerce frontend desarrollado como parte del curso "Desarrollo Web Completo".
 
 ## 🚀 Demo
 
-[Disponible en GitHub Pages.](https://github.com/cristhianychr/frontendstore-frontend)
+[Disponible en GitHub Pages.](https://cristhianychr.github.io/frontendstore-frontend)
 
 ## 📸 Captura del proyecto
 
