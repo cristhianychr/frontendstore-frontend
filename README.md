@@ -36,5 +36,11 @@ E-commerce frontend desarrollado como parte del curso "Desarrollo Web Completo".
 
 ## 👨‍💻 Autor
 
-**Cristhian**
-Estudiante de Ingeniería de Software
+**Cristhian Chanamé**
+
+- Estudiante de Ingeniería de Software
+- Lima, Perú
+
+## 📄 Licencia
+
+Este proyecto fue desarrollado con fines educativos y de aprendizaje.
